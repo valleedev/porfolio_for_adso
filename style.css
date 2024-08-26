@@ -510,6 +510,9 @@ footer {
 /*-------------------------Responsive Desing----------------------------*/
 
 @media (max-width: 768px) {
+  .circle {
+    display: none;
+  }
   header nav ul {
     flex-direction: column;
     gap: 2;
